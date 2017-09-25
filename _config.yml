@@ -11,16 +11,17 @@ highlighter: rouge
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
 cover_color: red
 
+    
+# Navigation buttons in the front page.
+nav:
+    - {title: ResearchGate, description: My Research, url: 'https://www.researchgate.net/profile/Lei_Bai8'}
+    - {title: CV, description: A button, url: 'http://baisanshi.com/CV'}
+    
+
 # The blog button should not be removed.
 blog_button:
     title: Blog
     description: Visit blog
-    
-
-# Navigation buttons in the front page.
-nav:
-    - {title: ResearchGate, description: My Research, url: 'https://www.researchgate.net/profile/Lei_Bai8'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
 gems: [jekyll-paginate]
