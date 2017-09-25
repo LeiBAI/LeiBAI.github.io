@@ -14,8 +14,8 @@ cover_color: red
     
 # Navigation buttons in the front page.
 nav:
-    - {title: ResearchGate, description: My Research, url: 'https://www.researchgate.net/profile/Lei_Bai8'}
-    - {title: CV, description: A button, url: 'http://baisanshi.com/CV'}
+    - {title: Research, description: My Research, url: 'https://www.researchgate.net/profile/Lei_Bai8'}
+    - {title: Resume, description: A button, url: 'http://baisanshi.com/CV'}
     
 
 # The blog button should not be removed.
@@ -36,7 +36,6 @@ comment:
 # Social
 social:
     github: LeiBAI
-    instagram: url:'https://www.instagram.com/lei_______/'
     mail: baisanshi@gmail.com
 
 # Google Analytics
