@@ -1,11 +1,7 @@
 # Basic
 title: LEI BAI
-subtitle: PhD Students, UNSW,Sydney
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Remember my nick name - BAI SANSHI.
-creator: <a href="http://onev.cat">@onevcat</a>
+subtitle: PhD Candidate, UNSW,Sydney
 
-url: "http://vno.onevcat.com"
 
 permalink: /:year/:month/:title/
 
