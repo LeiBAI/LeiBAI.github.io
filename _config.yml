@@ -15,10 +15,11 @@ cover_color: red
 blog_button:
     title: Blog
     description: Visit blog
+    
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: ResearchGate, description: My Research, url: 'https://www.researchgate.net/profile/Lei_Bai8'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
