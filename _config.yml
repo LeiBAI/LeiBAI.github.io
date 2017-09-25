@@ -14,8 +14,9 @@ cover_color: red
     
 # Navigation buttons in the front page.
 nav:
-    - {title: Research, description: My Research, url: 'https://www.researchgate.net/profile/Lei_Bai8'}
     - {title: Resume, description: A button, url: 'http://baisanshi.com/CV'}
+    - {title: Research, description: My Research, url: 'https://www.researchgate.net/profile/Lei_Bai8'}
+    
     
 
 # The blog button should not be removed.
