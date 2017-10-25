@@ -14,14 +14,15 @@ cover_color: red
     
 # Navigation buttons in the front page.
 nav:
-    - {title: Resume, description: A button, url: 'http://baisanshi.com/CV'}
+    
     - {title: Research, description: My Research, url: 'https://www.researchgate.net/profile/Lei_Bai8'}
+    - {title: About me, description: A button, url: 'http://baisanshi.com/CV'}
     
     
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: My Blog
     description: Visit blog
 
 # Pagination
