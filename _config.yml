@@ -16,7 +16,7 @@ cover_color: red
 nav:
     
     - {title: Research, description: My Research, url: 'https://www.researchgate.net/profile/Lei_Bai8'}
-    - {title: About me, description: A button, url: 'http://www.cse.unsw.edu.au/~z5158707/'}
+    - {title: About me, description: A button, url: 'http://web.cse.unsw.edu.au/~z5158707/'}
     
     
 
